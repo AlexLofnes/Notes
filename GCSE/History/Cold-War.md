@@ -4,11 +4,9 @@
 
 **Booklet:** file:///home/alex/Documents/School/GCSE/History/Cold-War-Booklet.pdf
 
-## Table of Contents
+**Table of Contents**
 
-1.  [Prague Spring](#prague-spring)
-2.  [Solidarity](#solidarity)
-3.  [End of the Cold War](#end-of-the-cold-war)
+${toc}
 
 ## Prague Spring
 
