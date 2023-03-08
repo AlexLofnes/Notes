@@ -6,7 +6,18 @@
 
 **Table of Contents**
 
-${toc}
+<!-- vim-markdown-toc Marked -->
+
+*   [Prague Spring](#prague-spring)
+*   [Solidarity](#solidarity) \* [Lech Walesa](#lech-walesa)
+    *   [Demands](#demands)
+    *   [Results](#results)
+        \_ [Positive](#positive)
+        \_ [Negative](#negative)
+    *   [Why these results?](#why-these-results?)
+*   [End of the Cold War](#end-of-the-cold-war)
+
+<!-- vim-markdown-toc -->
 
 ## Prague Spring
 
