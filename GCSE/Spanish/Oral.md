@@ -1,12 +1,12 @@
 ## Describe the photo
 
-En la foto, hay tres personas, dos hombre y una mujer, quien son limpiando basura en un parque.
+En la foto, hay tres personas, dos hombre y una mujer, quien son limpiando basura en un parque. En el centro de la foto hay un hombre con una botella plastica en el mano. Son cada ayudan el medio ambiente.
 
 ## What is this person wearing / doing
 
 ### Background Boy
 
-lleva una camiseta roja y pantalones verdes. Esta tirando basura en la papelera publica.
+lleva una camiseta roja, pantalones verdes y zapatillos marrones. Esta tirando basura en la papelera publica.
 
 ### Main boy
 
